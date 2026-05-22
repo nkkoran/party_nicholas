@@ -2,3 +2,4 @@
 * chop tomato
 * chop onion
 * press lemon juice
+* chop garlic

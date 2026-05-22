@@ -2,3 +2,4 @@ avocados
 tomato
 onion
 lemon juice
+garlic
